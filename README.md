@@ -125,6 +125,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-- Supermarket sales dataset
+- Supermarket sales dataset from [Kaggle](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)
 - [Recharts](https://recharts.org/) for the charting library
 - [PapaParse](https://www.papaparse.com/) for CSV parsing 
