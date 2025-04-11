@@ -2,7 +2,7 @@
 
 A modern, interactive dashboard for visualizing supermarket sales data. This application presents key metrics and trends from a supermarket sales dataset in an intuitive and visually appealing interface.
 
-![Dashboard Preview](mockup.png)
+![Dashboard Preview](public/dashboard.png)
 
 ## Features
 
