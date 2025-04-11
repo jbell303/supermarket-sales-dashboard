@@ -58,3 +58,8 @@ Thumbs.db
 
 # Yarn Integrity file
 .yarn-integrity
+
+# Project specific
+*.csv
+Best Practices/
+mockup.png

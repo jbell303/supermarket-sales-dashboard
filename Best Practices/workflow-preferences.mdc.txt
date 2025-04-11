@@ -1,9 +1,0 @@
-# --- File: workflow-preferences.mdc ---
-## Coding Workflow Preferences
-
-
-- When fixing an issue or bug, do NOT introduce a new pattern or technology without first exhausting all options for fixing it within the existing implementation. If you *must* introduce something new (and it's explicitly requested/approved), make sure to remove the old implementation afterward to avoid duplicate logic.
-- Avoid making major, unsolicited changes to established patterns or the overall architecture, especially if the existing structure works, unless explicitly instructed to refactor.
-- Write thorough tests (unit, integration, or end-to-end as appropriate) for all major functionality added or changed.
-- If tests fail after implementing a change, prioritize fixing the tests or the underlying code causing the failure. Run tests again to confirm the fix.
-- Always think about what other methods and areas of code might be affected by the changes being made.

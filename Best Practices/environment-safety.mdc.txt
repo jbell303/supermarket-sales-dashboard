@@ -1,8 +1,0 @@
-# --- File: environment-safety.mdc ---
-## Environment and Safety Rules
-
-- Write code that explicitly takes into account the different environments: `dev`, `test`, and `prod`. Handle configurations, databases, and dependencies appropriately for each.
-- Mocking data is ONLY needed and acceptable for `test` environments.
-- NEVER use mock data, stub data, or fake data patterns in code that affects the `dev` or `prod` environments.
-- NEVER add stubbing or fake data patterns directly into the main application code intended for `dev` or `prod`.
-- NEVER overwrite my `.env` file without first asking and confirming. Check existing variables before adding new ones.
