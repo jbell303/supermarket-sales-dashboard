@@ -1,0 +1,8 @@
+# --- File: coding-preferences.mdc ---
+## Coding Pattern Preferences
+
+- Always prefer simple, clear solutions.
+- Avoid duplication of code whenever possible. Before writing new code, check if similar functionality already exists in the codebase and refactor/reuse if possible.
+- Keep the codebase very clean, well-organized, and readable.
+- Avoid having files over 200-300 lines of code. If a file exceeds this, refactor it into smaller, logical modules.
+- Avoid writing one-off scripts directly into main code files if possible, especially if the script is only meant to be run once. If a temporary script is needed for testing, ensure it is removed afterward.
